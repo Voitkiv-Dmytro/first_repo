@@ -1,0 +1,18 @@
+html, body{
+    background-color: purple;
+    height: 100%;
+    width: 100%;
+}
+h1{
+    color: aqua;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
